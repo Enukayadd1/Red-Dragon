@@ -23,8 +23,8 @@ global.alivemsg = `My name is HMY BOT🔥
 My Creator is Enuka Methman😎` //Costomize Alive Message (Hi I am Online.. `` )
 
 global.owner = ['+94740181261'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.premium = ['+9474018126'] //Owner Number info
+global.ownernomer = '+9474018126' //Owner Number <<<
 
 global.ownername = '😎Enuka Yadd' //Owner Name
 global.botname = ' ☬HMY༒BOT' //Bot Name
@@ -39,11 +39,11 @@ global.author = '😎Enuka Yadd❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
-global.footer = '©_Kumuthu.' //In list menu
+global.footer = 'E Methman.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 
-global.ig = 'https://www.youtube.com/channel/UCBo7ONv-1S47Hr7AP-_O1Ig' //Github Account!
+global.ig = 'https://www.youtube.com/channel/UCBo7ONv-1S47Hr7AP-_O1Ig' //Yt Chanel!
 
 global.mess = { // Error Mesages
     success: 'Done ✅',
